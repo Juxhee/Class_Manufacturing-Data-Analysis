@@ -8,6 +8,9 @@
 
 
 ### 데이터셋
+
+- 인공지능 중소벤처 제조 플랫폼 KAMP 의 프레스기 AI 데이터셋 활용 
+- https://www.kamp-ai.kr/
 1) 작업시간 동안 프레스 공정 내 환경 데이터   - PressRawDataset.csv
 2) 작업시간 동안 프레스 공정 내 불량 유형 별 불량 발생 개수 데이터 - PressError.csv
 
