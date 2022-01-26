@@ -1,6 +1,6 @@
 # 21 2nd Semester Manufacturing Data Analysis Class Project
 ## 프레스 공정 불량품 예측을 위한 제조 데이터 분석 및 시각화
-##
+
 
 ### 분석 목적
 - 프레스 내 환경 데이터와 프레스 공정 내에서의 불량 정보 데이터를 활용해 최종 제품의 불량품 여부 예측에 대한 인사이트 도출
