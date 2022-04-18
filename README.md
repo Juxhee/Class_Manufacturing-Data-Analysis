@@ -47,9 +47,7 @@
 
 ![image](https://user-images.githubusercontent.com/60679596/146933870-456f68c3-0d49-45b5-8c27-e5fa9c7065a8.png)
 
-
 ![image](https://user-images.githubusercontent.com/60679596/146933930-44a9f041-1c1b-4fa0-b232-43887d399a68.png)
-
 
 ![image](https://user-images.githubusercontent.com/60679596/146933950-9eb01f76-0257-4243-8585-281b43bc25ba.png)
 
@@ -59,14 +57,12 @@
 `clustering_DBSCAN.ipynb`
 </br>
 ![image](https://user-images.githubusercontent.com/60679596/146934000-6ea300b0-041c-4e41-922e-ae9c301a5e84.png)
-
 ![image](https://user-images.githubusercontent.com/60679596/146934010-7371813e-95bf-455f-97e0-0253687926ce.png)
 
 - 분석  3 : Mean Shift
 `clustering_MeanShift.ipynb`
 </br>
 ![image](https://user-images.githubusercontent.com/60679596/146934047-561686c1-42e7-4df0-8570-bd37628778dd.png)
-
 ![image](https://user-images.githubusercontent.com/60679596/146934059-414fb7e1-312e-44d9-9c2f-8764b0d7017f.png)
 
 </br>
@@ -77,10 +73,7 @@
 
 ![image](https://user-images.githubusercontent.com/60679596/146934111-f19b8de0-4bc0-448b-956b-adebd77dc9b6.png)
 
-
 ![image](https://user-images.githubusercontent.com/60679596/146934130-b84fb46a-7199-4fdd-b274-08eac1a21f44.png)
-
-
 
 ![image](https://user-images.githubusercontent.com/60679596/146934141-75296636-6210-4a6c-bd46-27bc35bca354.png)
 
