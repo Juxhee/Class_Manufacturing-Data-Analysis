@@ -13,7 +13,8 @@
 1) 작업시간 동안 프레스 공정 내 환경 데이터   - PressRawDataset.csv
 2) 작업시간 동안 프레스 공정 내 불량 유형 별 불량 발생 개수 데이터 - PressError.csv
 
-
+</br>
+</br>
 
 ### EDA
 
@@ -25,6 +26,8 @@
 
 ![image](https://user-images.githubusercontent.com/60679596/146933763-4175ef55-727c-47ce-9102-9a0c9eb6b762.png)
 
+</br>
+</br>
 
 ### 클러스터링 
 
@@ -40,7 +43,7 @@
 
 ![image](https://user-images.githubusercontent.com/60679596/146933950-9eb01f76-0257-4243-8585-281b43bc25ba.png)
 
-
+</br>
 
 분석 알고리즘 2 : DBSCAN
 
@@ -54,6 +57,8 @@
 
 ![image](https://user-images.githubusercontent.com/60679596/146934059-414fb7e1-312e-44d9-9c2f-8764b0d7017f.png)
 
+</br>
+</br>
 
 #### 클러스터링 결과 시각화 (Kmeans)
 
