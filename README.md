@@ -1,5 +1,4 @@
-# 21 2nd Semester Manufacturing Data Analysis Class Project
-## 프레스 공정 불량품 예측을 위한 제조 데이터 분석 및 시각화
+## 전자제조 데이터 분석 수업 프로젝트 : 프레스 공정 불량품 예측을 위한 제조 데이터 분석 및 시각화
 
 
 ### 분석 목적
